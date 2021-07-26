@@ -18,7 +18,7 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.png',
-  paragraphOne: 'I\'m a creative Front-end Developer with a diverse Design background. I have the ability to take up new technical concepts quickly and upskill in different coding practices. I have extensive experience in developing and refining products translating company brand values. I have a valid visa to work in the UK.',
+  paragraphOne: 'I\'m a creative Front-end Developer with a diverse Design background. I can take up new technical concepts quickly and upskill in different coding practices. I have extensive experience in developing and refining products translating company brand values. I have a valid visa to work in the UK and I\'m currently working at Whitezip Agency',
   // paragraphTwo: '',
   // paragraphThree: '',
   resume: 'https://patriciacostalonga.github.io/CV/', // if no resume, the button will not show up
