@@ -19,7 +19,7 @@ export const heroData = {
 export const aboutData = {
   img: 'profile.png',
   paragraphOne: 'I\'m a creative Front-end Developer with a diverse Design background. I can take up new technical concepts quickly and upskill in different coding practices. I have extensive experience in developing and refining products translating company brand values. I have a valid visa to work in the UK, and I\'m currently working at Whitezip Agency in London.',
-  paragraphTwo: 'On a personal note, I\'m a crazy cat lady who loves watching series, anime and playing board games with a group. I recently discover bouldering, and this became one of my new favourite activities. I also love taking notes, so if you haven\'t used Notion yet, let me show you a whole new world.',
+  paragraphTwo: 'On a personal note, I\'m a crazy cat lady who loves watching series, anime and playing board games with a group. I recently discovered bouldering, and this became one of my new favourite activities. I also love taking notes, so if you haven\'t used Notion yet, let me show you a whole new world.',
   // paragraphThree: '',
   resume: 'https://patriciacostalonga.github.io/CV/', // if no resume, the button will not show up
 };
