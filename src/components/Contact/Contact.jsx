@@ -15,7 +15,7 @@ const Contact = () => {
         <Fade bottom duration={700} delay={500} distance="30px">
           <div className="contact-wrapper">
             <p className="contact-wrapper__text">
-              {cta || 'Would you like to work with me? Awesome!'}
+              {cta || 'Would you like to know me more? Awesome!'}
             </p>
             <a
               target="_blank"
@@ -23,7 +23,7 @@ const Contact = () => {
               className="cta-btn cta-btn--resume"
               href={email ? `mailto:${email}` : 'https://github.com/cobidev/react-simplefolio'}
             >
-              {btn || "Get in contact"}
+              {btn || 'Get in contact'}
             </a>
           </div>
         </Fade>
