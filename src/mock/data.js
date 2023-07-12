@@ -2,7 +2,7 @@ import { nanoid } from 'nanoid';
 
 // HEAD DATA
 export const headData = {
-  title: 'Patricia | Frontend Engineer', // e.g: 'Name | Developer'
+  title: 'Patricia | Frontend Developer', // e.g: 'Name | Developer'
   lang: 'en, pt', // e.g: en, es, fr, jp
   description: 'Welcome to my portfolio', // e.g: Welcome to my website
 };
@@ -11,7 +11,7 @@ export const headData = {
 export const heroData = {
   title: '',
   name: 'Patricia Costalonga',
-  subtitle: "and I'm a Front-end Engineer",
+  subtitle: "and I'm a Front-end Developer",
   cta: '',
 };
 
@@ -19,7 +19,7 @@ export const heroData = {
 export const aboutData = {
   img: 'profile_02.jpg',
   paragraphOne:
-    "I'm a creative Front-end Engineer with a diverse Design background. I can take up new technical concepts quickly and upskill in different coding practices. I have extensive experience in developing and refining products translating company brand values. I have a valid visa to work in the UK, and I'm currently working at Eviivo in London.",
+    "I'm a dynamic Front-end developer with a creative flair, boasting over three years of experience and a diverse Design background spanning over a decade. My professional journey has taken me through industries such as Hospitality SaaS, Online Gambling, Fashion, and Cultural sectors, igniting my passion for crafting immersive digital experiences.",
   paragraphTwo:
     "On a personal note, I'm a crazy cat lady who loves watching series, anime and playing board games with a group. I recently discovered bouldering, and this became one of my new favourite activities. I also love taking notes, so if you haven't used Notion yet, let me show you a whole new world.",
   // paragraphThree: '',
